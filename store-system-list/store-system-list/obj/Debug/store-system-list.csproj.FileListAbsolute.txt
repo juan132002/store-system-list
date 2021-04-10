@@ -1,0 +1,2 @@
+C:\Users\juanma12\Documents\GitHub\store-system-list\store-system-list\store-system-list\obj\Debug\store-system-list.csprojAssemblyReference.cache
+C:\Users\juanma12\Documents\GitHub\store-system-list\store-system-list\store-system-list\obj\Debug\store-system-list.csproj.CoreCompileInputs.cache
